@@ -1,6 +1,6 @@
 ## Project Demo Video
 
-[Watch Demo Video](./02-button.mp4)
+[Watch Demo Video](02-button.mp4)
 
 
 
